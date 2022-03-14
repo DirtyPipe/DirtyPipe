@@ -29,7 +29,7 @@
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=c#)
+![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=csharp)
 ![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
 
 ### 🤝🏻 &nbsp;Connect with Me
